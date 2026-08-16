@@ -1,2 +1,5 @@
-# csd-380
-for class
+# CSD 380 Web Development with HTML and CSS
+
+## Contributors
+- Adam Bailey
+- Amanda Brock
